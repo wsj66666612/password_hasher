@@ -13,7 +13,7 @@
 
 ## 截图
 
-![screenshot](path/to/screenshot.png)
+![screenshot](screenshot.png)
 
 ## 安装
 
