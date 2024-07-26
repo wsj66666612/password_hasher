@@ -118,4 +118,4 @@ root.mainloop()
 
 ## 联系方式
 
-如有任何问题或建议，请通过 [yizhiajun@gmailcom] 联系我。
+如有任何问题或建议，请通过 [yizhiajun@gmail.com] 联系我。
